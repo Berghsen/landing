@@ -3,12 +3,12 @@ import './globals.css'
 import CookieConsent from '@/components/CookieConsent'
 
 export const metadata: Metadata = {
-  title: 'StoryBeyond — Digital Agency',
+  title: 'StoryBeyond',
   description: 'Helping small businesses and zelfstandigen with websites, brand clarity, and print basics. Local, honest, no agency fluff.',
   keywords: ['digital agency', 'web design', 'branding', 'small business', 'zelfstandigen'],
   authors: [{ name: 'StoryBeyond' }],
   openGraph: {
-    title: 'StoryBeyond — Digital Agency',
+    title: 'StoryBeyond',
     description: 'Helping small businesses and zelfstandigen with websites, brand clarity, and print basics.',
     type: 'website',
   },
