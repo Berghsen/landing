@@ -36,19 +36,19 @@ export default function Navigation() {
           <div className="hidden md:flex items-center gap-8">
             <a 
               href="/#work" 
-              className="text-sm font-medium text-apple-gray-600 hover:text-apple-gray-900 transition-colors"
+              className="text-sm font-medium text-apple-gray-600 hover:text-apple-blue-600 transition-colors"
             >
               Wat wij doen
             </a>
             <a 
               href="/#contact" 
-              className="text-sm font-medium text-apple-gray-600 hover:text-apple-gray-900 transition-colors"
+              className="text-sm font-medium text-apple-gray-600 hover:text-apple-blue-600 transition-colors"
             >
               Contact
             </a>
             <a 
               href="/#contact" 
-              className="px-5 py-2 bg-apple-gray-900 text-white rounded-full text-sm font-medium hover:bg-apple-gray-800 transition-colors"
+              className="px-5 py-2 bg-apple-gray-900 text-white rounded-full text-sm font-medium hover:bg-apple-blue-600 transition-colors"
             >
               Neem contact op
             </a>

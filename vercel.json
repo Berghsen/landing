@@ -1,7 +1,12 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "out",
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+  "cleanUrls": false,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/privacy", "destination": "/privacy.html", "permanent": true },
+    { "source": "/cookies", "destination": "/cookies.html", "permanent": true },
+    { "source": "/juridisch", "destination": "/juridisch.html", "permanent": true },
+    { "source": "/voorwaarden", "destination": "/voorwaarden.html", "permanent": true }
   ]
 }
