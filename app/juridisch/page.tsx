@@ -25,10 +25,7 @@ export default function JuridischPage() {
                 <strong className="text-apple-gray-900">Handelsnaam:</strong> StoryBeyond
               </p>
               <p>
-                <strong className="text-apple-gray-900">Ondernemingsnummer / BTW:</strong> BE [VUL IN]
-              </p>
-              <p>
-                <strong className="text-apple-gray-900">Adres:</strong> [VUL IN]
+                <strong className="text-apple-gray-900">Ondernemingsnummer / BTW:</strong> BE 1014.506.964
               </p>
               <p>
                 <strong className="text-apple-gray-900">E-mail:</strong>{' '}
@@ -41,9 +38,6 @@ export default function JuridischPage() {
                 <a href="tel:+32490198049" className="text-apple-blue-700 hover:underline">
                   +32 490 19 80 49
                 </a>
-              </p>
-              <p>
-                <strong className="text-apple-gray-900">Verantwoordelijke uitgever:</strong> Tompa
               </p>
             </div>
           </section>

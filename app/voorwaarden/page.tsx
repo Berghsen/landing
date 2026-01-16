@@ -77,7 +77,7 @@ export default function VoorwaardenPage() {
               Contact voor voorwaarden
             </h2>
             <p className="text-lg text-apple-gray-600 leading-relaxed font-light mb-4">
-              Tompa – StoryBeyond (by Berghsen)
+               StoryBeyond (by Berghsen)
             </p>
             <p className="text-lg text-apple-gray-600 leading-relaxed font-light">
               E-mail: <a href="mailto:hello@storybeyond.io" className="text-apple-blue-700 hover:underline">hello@storybeyond.io</a>

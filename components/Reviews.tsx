@@ -29,14 +29,12 @@ export default function Reviews() {
 
   const reviews = [
     {
-      name: 'Sarah van der Berg',
-      business: 'Bakkerij De Zoete Liefde',
-      text: 'Eindelijk een website die echt bij ons past! StoryBeyond heeft precies begrepen wat we wilden: simpel, duidelijk en professioneel. Onze klanten vinden nu makkelijk wat ze zoeken en we krijgen veel meer online boekingen. Super tevreden!',
+      name: 'Sarah',
+      text: 'Eindelijk een website die echt bij ons past! Simpel, duidelijk en precies wat we nodig hadden. Onze klanten vinden nu makkelijk wat ze zoeken.',
     },
     {
-      name: 'Mark Janssen',
-      business: 'Janssen Installaties',
-      text: 'Als zelfstandige had ik geen idee waar ik moest beginnen met een website. StoryBeyond heeft me geholpen om mijn verhaal helder te vertellen. Het resultaat? Meer opdrachten en een website waar ik trots op ben. Echt een aanrader!',
+      name: 'Mark',
+      text: 'Als zelfstandige had ik geen idee waar te beginnen. StoryBeyond heeft me geholpen om mijn verhaal helder te vertellen. Meer opdrachten en een website waar ik trots op ben.',
     },
   ]
 
@@ -72,9 +70,6 @@ export default function Reviews() {
               <div>
                 <p className="font-semibold text-apple-gray-900 text-sm md:text-base">
                   {review.name}
-                </p>
-                <p className="text-xs md:text-sm text-apple-gray-600 font-light">
-                  {review.business}
                 </p>
               </div>
             </div>

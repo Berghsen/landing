@@ -1,4 +1,22 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "out"
+  "outputDirectory": "out",
+  "rewrites": [
+    {
+      "source": "/privacy",
+      "destination": "/privacy/index.html"
+    },
+    {
+      "source": "/cookies",
+      "destination": "/cookies/index.html"
+    },
+    {
+      "source": "/juridisch",
+      "destination": "/juridisch/index.html"
+    },
+    {
+      "source": "/voorwaarden",
+      "destination": "/voorwaarden/index.html"
+    }
+  ]
 }

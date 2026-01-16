@@ -30,17 +30,17 @@ export default function WhatIHelpWith() {
   const services = [
     {
       title: 'Websites',
-      description: 'Schone, snelle websites die gewoon werken. Op je telefoon, tablet, laptop – overal. Gebouwd voor jouw klanten, niet om indruk te maken op andere designers.',
+      description: 'We bouwen websites die écht werken. Geen templates, geen standaard oplossingen. Gewoon een site die past bij wie jij bent en wat je doet. Mobiel, snel, en precies zoals jij het wilt.',
       icon: '🌐',
     },
     {
-      title: 'Brand Clarity',
-      description: 'We helpen je ontdekken wat jouw bedrijf écht uniek maakt. En dan zorgen we dat je dat ook duidelijk kunt vertellen aan je klanten. Geen marketingtaal, gewoon eerlijk.',
+      title: 'Merk & Verhaal',
+      description: 'Samen ontdekken we wat jouw bedrijf uniek maakt. En dan zorgen we dat je dat ook goed kunt vertellen. Aan je klanten, op je website, in je communicatie. Helder, eerlijk, zonder poespas.',
       icon: '✨',
     },
     {
-      title: 'Print Basics',
-      description: 'Visitekaartjes, flyers, simpel drukwerk. Soms heb je gewoon iets tastbaars nodig. En dat is helemaal prima. Wij maken het netjes en professioneel.',
+      title: 'Print & Basics',
+      description: 'Visitekaartjes, flyers, simpel drukwerk. Soms heb je gewoon iets tastbaars nodig. Wij maken het netjes, professioneel en passend bij jouw merk.',
       icon: '📄',
     },
   ]
@@ -53,7 +53,7 @@ export default function WhatIHelpWith() {
             Wat wij doen
           </h2>
           <p className="text-lg md:text-xl lg:text-2xl text-apple-gray-600 max-w-3xl font-light">
-            Drie dingen waar we goed in zijn. Simpel, helder, zonder onzin.
+            Dit is wat we doen. Geen grote beloften, gewoon goed werk.
           </p>
         </div>
         

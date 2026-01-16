@@ -5,11 +5,8 @@ export default function Footer() {
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 md:gap-12 mb-8 md:mb-12">
           <div>
             <h3 className="text-white font-semibold text-lg mb-4">StoryBeyond</h3>
-            <p className="text-apple-gray-500 text-sm leading-relaxed font-light mb-2">
-              Digital agency voor kleine bedrijven en zelfstandigen.
-            </p>
-            <p className="text-apple-gray-500 text-sm font-light">
-              1014.506.964
+            <p className="text-apple-gray-500 text-sm leading-relaxed font-light">
+              Laat zien wie u écht bent.
             </p>
           </div>
           
